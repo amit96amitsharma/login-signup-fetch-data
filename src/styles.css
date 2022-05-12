@@ -1,1 +1,24 @@
 /* You can add global styles to this file, and also import other style files */
+
+:root {
+    --primary: #EA2330;
+    --primaryBackdrop: #0021477a;
+    --primaryBackground: #FEDFE1;
+    --primaryBackground: #eebdc0;
+    --primaryTextColor: #EA2330;
+    --accent: #228ee9;
+    --accentBackground: #91c4ee;
+    --accentTextColor: #002147;
+    --secondary: #515151;
+    --secondaryBackground: #bfbdbd;
+    --disabled: #8E8E8E;
+    --disabledBackground: #bfbdbd;
+    --success: #28d716;
+    --done: #2fa835;
+    --pending: #fc9803;
+    --warn: #ff6666;
+    --default: #515151;
+    --defaultBackdrop: #999999;
+    --defaultBackground: #f1f1f1;
+    --defaultBackwall: #f4f4f4;
+}
